@@ -1,7 +1,7 @@
 # Creative Portfolio
 
 ## Projects
-**The Past | [Watch It Here]([link](https://youtu.be/aJYpJpIGlM4)) | _November 2018_**
+**The Past | [Watch It Here](https://youtu.be/aJYpJpIGlM4)) | _November 2018_**
 
 After a long time serving as the right hand man for a ruthless mafia gang, our protagonist decides he’s had enough. Haunted by the memories of his last job - a mission he deliberately botched - he attempts to disappear all while reckoning with his past.
 
