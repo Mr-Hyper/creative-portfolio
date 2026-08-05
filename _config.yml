@@ -2,4 +2,4 @@ title: Emadh Miah
 logo: assets/images/headshot.jpg
 description: Description
 show_downloads: false
-theme: dark-minima
+theme: jekyll-theme-minimal
