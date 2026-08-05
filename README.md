@@ -4,7 +4,7 @@
 
 **The Retriever - Short Film | TBD | [Concept](https://youtu.be/iqDAWnJhdCE)**
 
-My current short film project that is a work in progress.
+My current short film project that is a work in progress. I have explored the film so far creating a [storyboard](https://youtu.be/wUN4UNxbWWY) for how the film could potentially look. And then developing a screenplay, to cement the idea with plans to get it produced soon.
 
 <img width="100%" height="auto" alt="The Retriever" src="https://github.com/user-attachments/assets/c655a980-57dc-4321-946f-d95d0f73ae2f" />
 
